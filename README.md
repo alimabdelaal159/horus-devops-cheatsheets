@@ -6,3 +6,4 @@
 | الريل | الكلمة | الصورة |
 |---|---|---|
 | .dockerignore | IGNORE | [dockerignore.png](dockerignore.png) |
+| Build Cache | CACHE | [build-cache.png](build-cache.png) |
