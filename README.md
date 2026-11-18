@@ -7,3 +7,4 @@
 |---|---|---|
 | .dockerignore | IGNORE | [dockerignore.png](dockerignore.png) |
 | Build Cache | CACHE | [build-cache.png](build-cache.png) |
+| Docker Volumes | VOLUME | [docker-volumes.png](docker-volumes.png) |
