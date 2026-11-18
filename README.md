@@ -8,3 +8,4 @@
 | .dockerignore | IGNORE | [dockerignore.png](dockerignore.png) |
 | Build Cache | CACHE | [build-cache.png](build-cache.png) |
 | Docker Volumes | VOLUME | [docker-volumes.png](docker-volumes.png) |
+| Volume vs Bind Mount | MOUNT | [volume-vs-bind.png](volume-vs-bind.png) |
